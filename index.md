@@ -13,3 +13,5 @@ _Italic_
 *Italic*
 `Code`
 
+မြန်မာစာ
+
