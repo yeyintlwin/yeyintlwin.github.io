@@ -1,1 +1,1 @@
-# Ye Yint Lwin *(n00b)*
+# Ye Yint Lwin
